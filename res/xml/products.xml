@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <object-array>
+        <item>
+            <product>
+                <entry key="name">First product</entry>
+                <entry key="desc">This is the first product</entry>
+            </product>
+            <product>
+                <entry key="name">Second product</entry>
+                <entry key="desc">This is the second product</entry>
+            </product>
+        </item>
+    </object-array>
+</resources>
